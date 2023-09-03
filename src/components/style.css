@@ -1,0 +1,37 @@
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#counter{
+    display: flex;
+    justify-content: center;
+}
+#count{
+    margin:0 8px;
+}
+#square{
+    padding: 20px;
+    display: flex;
+    
+    justify-content: center;
+    
+}
+#square1{
+margin: 8px;
+display: flex;
+    
+justify-content: center;
+}
+#square2{
+    margin: 8px;
+    display: flex;
+    
+    justify-content: center;
+    }
+
+#buttonChange{
+     display: flex;
+    
+    justify-content: center;
+}
